@@ -17,6 +17,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/pedro-henrique-123065227/" target="_blank"> 
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a/>
 </div>
