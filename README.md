@@ -1,6 +1,6 @@
 ## Olá, eu sou o Pedro Varela.
 
-- 🧘‍♀️ Hoje trabalho com Java, NodeJs e Vue.
+- 🧘‍♀️ Estudante de Tecnologia em Analise e Desenvolvimento de Sistemas pela UNICAMP.
 - ☘️ Atualmente estou estudando Javascript e CSS.
 
 <div>
